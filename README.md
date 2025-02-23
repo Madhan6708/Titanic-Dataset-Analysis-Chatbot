@@ -1,0 +1,1 @@
+A chatbot powered by FastAPI, Streamlit, and LangChain, allowing users to analyze the Titanic dataset through natural language queries. The chatbot provides text responses and interactive visualizations to answer user questions about passenger survival rates, demographics, and more.
