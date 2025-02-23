@@ -1,0 +1,10 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-core==0.1.27
+pandas==2.2.1
+plotly==5.19.0
+streamlit==1.32.2
+python-dotenv==1.0.1
+pydantic==2.6.3
